@@ -1,0 +1,10 @@
+# Install these libraries using: 
+# pip install -r /path/to/requirements.txt
+
+Pillow
+numpy
+opencv-python==4.5.3.56
+opencv-contrib-python==4.5.3.56
+
+# Use this code to convert py to exe:
+# pyinstaller -F -w window.py
