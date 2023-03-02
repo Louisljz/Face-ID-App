@@ -1,2 +1,4 @@
 # Face ID App
 This App works just like your Phone's Face ID, except it uses a simpler and less advanced code implementation, yet still maintaining quite a decent performance. Through scanning, analyzing your face and saving that data, it can detect a face presented in front of a camera, and classify whether this face is yours or not, in real time. If it is, then the device will be unlocked, else, it will remain locked.  The pipeline of this project consists of two main parts: Face Detection (Haar Cascade Classifier) ; Face Recognition (LBPH Face Recognizer). This two algorithms combined is then implemented using Graphic User Interface (GUI), for users to access the app easily.
+
+If you want to try more apps created using Tkinter library in Python, visit this github link: https://github.com/Louisljz/Mini-Python-Tkinter-Apps/
